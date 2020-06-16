@@ -1,2 +1,2 @@
-# only-for-fun
-Only some trivial codes
+# 2020_Summer
+2020_Summer_exercises
